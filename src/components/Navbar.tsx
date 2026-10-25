@@ -111,12 +111,12 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* External GitHub link */}
           <a
-            href="https://github.com/samarthgudoorkar-max"
+            href="https://github.com/samarthgudoorkar-max/ReadmeCraft"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="GitHub Profile"
+            aria-label="GitHub Repository"
             className="p-2 text-slate-500 dark:text-mutedText hover:text-slate-700 dark:hover:text-slate-200 rounded-lg hover:bg-slate-100 dark:hover:bg-surfaceDark transition-colors"
-            title="View developer profile on GitHub"
+            title="View ReadmeCraft repository on GitHub"
           >
             <GithubIcon className="w-4 h-4" />
           </a>
