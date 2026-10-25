@@ -7,13 +7,13 @@
 [![React](https://img.shields.io/badge/React-18.3-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Deployment: Vercel](https://img.shields.io/badge/Vercel-Deployed-black?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Deployment: GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-2ea44f?style=flat-square&logo=github&logoColor=white)](https://samarthgudoorkar-max.github.io/ReadmeCraft/)
 
 **Beautiful GitHub READMEs, without the hassle.**
 
 A modern, fast, and accessible developer productivity tool to design, customize, and export professional GitHub README documentation through a real-time split-screen interface.
 
-[**Explore Demo**](https://readmecraft.vercel.app) • [**Report Bug**](https://github.com/samarthgudoorkar-max/ReadmeCraft/issues) • [**Request Feature**](https://github.com/samarthgudoorkar-max/ReadmeCraft/issues)
+[**Live Demo**](https://samarthgudoorkar-max.github.io/ReadmeCraft/) • [**Report Bug**](https://github.com/samarthgudoorkar-max/ReadmeCraft/issues) • [**Request Feature**](https://github.com/samarthgudoorkar-max/ReadmeCraft/issues)
 
 </div>
 
